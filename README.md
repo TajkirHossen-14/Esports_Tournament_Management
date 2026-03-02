@@ -135,4 +135,4 @@ The script will automatically:
 | Q21 | Countries with 2+ players | `GROUP BY`, `HAVING` |
 | Q22 | Teams with 1+ wins and prize > 100k | `GROUP BY`, `HAVING` multi-condition |
 | Q23 | Games with 2+ tournaments and prize > 500k | `HAVING`, `SUM` |
-| Q24 | Top 3 Asian players — all clauses combined | `WHERE` + `GROUP BY` + `HAVING` + `ORDER BY` + `LIMIT` |
+| Q24 | Top 3 Asian players – all clauses combined | `WHERE` + `GROUP BY` + `HAVING` + `ORDER BY` + `LIMIT` |
