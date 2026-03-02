@@ -25,7 +25,7 @@ The system contains **6 tables**:
 | `Teams` | Team info with captain reference, total wins, and cumulative prize earned |
 | `Tournaments` | Tournament details including format, prize pool, status, and winner team |
 | `Matches` | Match records with stage, Best-of format, and winner/loser references |
-| `Results` | Match outcomes — scores, duration, MVP, and prize awarded per team |
+| `Results` | Match outcomes – scores, duration, MVP, and prize awarded per team |
 
 
 ---
@@ -33,7 +33,7 @@ The system contains **6 tables**:
 ## 🌏 Coverage
 
 - **20** unique games across genres (Tactical Shooter, MOBA, Battle Royale, Fighting, Sports, RTS)
-- **30** players from **10 Asian countries** — Bangladesh, India, Pakistan, Nepal, Sri Lanka, Malaysia, Indonesia, Philippines, Thailand, South Korea
+- **30** players from **10 Asian countries** – Bangladesh, India, Pakistan, Nepal, Sri Lanka, Malaysia, Indonesia, Philippines, Thailand, South Korea
 - **20** teams representing diverse Asian nations
 - **20** tournaments with various formats: Single/Double Elimination, Round Robin, Swiss
 - **40** matches with full bracket stages (Quarter Final → Semi Final → Final)
