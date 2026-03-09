@@ -21,11 +21,11 @@ The system contains **6 tables**:
 | Table | Description |
 |---|---|
 | `Games` | Stores all supported esports titles (Valorant, CS2, Dota 2, etc.) |
-| `Players` | Player profiles with rank points, country, team assignment, and in-game role |
-| `Teams` | Team info with captain reference, total wins, and cumulative prize earned |
-| `Tournaments` | Tournament details including format, prize pool, status, and winner team |
-| `Matches` | Match records with stage, Best-of format, and winner/loser references |
-| `Results` | Match outcomes – scores, duration, MVP, and prize awarded per team |
+| `Players` | Player profiles with rank points, country, team assignment and in-game role |
+| `Teams` | Team info with captain reference, total wins and cumulative prize earned |
+| `Tournaments` | Tournament details including format, prize pool, status and winner team |
+| `Matches` | Match records with stage, Best-of format and winner/loser references |
+| `Results` | Match outcomes – scores, duration, MVP and prize awarded per team |
 
 
 ---
