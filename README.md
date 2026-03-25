@@ -84,7 +84,7 @@ esports-tournament-db/
 
 ## 🚀 How to Run
 
-**Requirements:** MySQL 8.0 or later
+**Requirements :** MySQL 8.0 or later
 
 ```bash
 # Option 1 — MySQL CLI
@@ -100,7 +100,7 @@ mysql -u root -p < esports_tournament_management.sql
 # Import → Choose file → Go
 ```
 
-The script will automatically:
+The script will automatically :
 1. Create the `esports_db` database
 2. Create all 6 tables with constraints
 3. Insert all sample data and set captain references
