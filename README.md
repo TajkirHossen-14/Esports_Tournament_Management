@@ -1,7 +1,15 @@
-# 🎮 Esports Tournament Management 
+<div align="center">
+
+  <p align="center">
+  <img src="Banner/Esports Tournament Management [Banner].png" alt="Data Structures & Algorithms Banner" width="100%">
+</p>
+
+<br>
 
 A relational database project built with **MySQL** to manage all aspects of competitive esports  
 tournaments – from player rosters and team management to match scheduling, results tracking, and prize distribution.
+
+</div>
 
 ---
 
