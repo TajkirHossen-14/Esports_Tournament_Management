@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-  <img src="Banner/Esports Tournament Management [Banner].png" alt="Esports Tournament Management Banner" width="100%">
+  <img src="Banner/ETM Banner.png" alt="Esports Tournament Management Banner" width="100%">
 </p>
 
 <br>
