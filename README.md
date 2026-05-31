@@ -80,7 +80,7 @@ The system contains **6 tables**:
 ```
 esports-tournament-db/
 │
-├── esports_tournament_management.sql   # Main SQL file
+├── Esports Tournament Management.sql           # Main SQL file
 │   ├── DDL  — CREATE TABLE statements (6 tables)
 │   ├── DML  — INSERT + UPDATE sample data (20–30 rows per table)
 │   └── DQL  — 24 SELECT queries
