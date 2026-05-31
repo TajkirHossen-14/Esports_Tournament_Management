@@ -96,7 +96,7 @@ esports-tournament-db/
 
 ```bash
 # Option 1 — MySQL CLI
-mysql -u root -p < esports_tournament_management.sql
+mysql -u root -p < Esports Tournament Management.sql
 
 # Option 2 — MySQL Workbench
 # File → Open SQL Script → esports_tournament_management.sql → Execute (⚡)
