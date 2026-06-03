@@ -78,13 +78,14 @@ The system contains **6 tables**:
 ## 📂 File Structure
 
 ```
-esports-tournament-db/
+Esports_Tournament_Management/
 │
 ├── Esports Tournament Management.sql           # Main SQL file
 │   ├── DDL  — CREATE TABLE statements (6 tables)
 │   ├── DML  — INSERT + UPDATE sample data (20–30 rows per table)
 │   └── DQL  — 24 SELECT queries
 │
+└── Banner/ 
 └── README.md
 ```
 
