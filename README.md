@@ -85,7 +85,7 @@ Esports_Tournament_Management/
 │   ├── DML  — INSERT + UPDATE sample data (20–30 rows per table)
 │   └── DQL  — 24 SELECT queries
 │
-└── Banner/ 
+├── Banner/ 
 └── README.md
 ```
 
